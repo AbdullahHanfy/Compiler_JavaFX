@@ -14,5 +14,5 @@ In this project I had made a simple notepad with its functionalities:-
 Also The program has a new feture that you can Compile and run Java for C program.
 
 
-##Tools:-
+## Tools:-
 I had used JavaFX with its functionalities to build my project.
